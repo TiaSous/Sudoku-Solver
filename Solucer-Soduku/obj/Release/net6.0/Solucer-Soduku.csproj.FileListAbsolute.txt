@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Solucer-Soduku\bin\Release\net6.0\Solucer-Soduku.exe
+C:\Users\user\Desktop\Solucer-Soduku\bin\Release\net6.0\Solucer-Soduku.deps.json
+C:\Users\user\Desktop\Solucer-Soduku\bin\Release\net6.0\Solucer-Soduku.runtimeconfig.json
+C:\Users\user\Desktop\Solucer-Soduku\bin\Release\net6.0\Solucer-Soduku.dll
+C:\Users\user\Desktop\Solucer-Soduku\bin\Release\net6.0\Solucer-Soduku.pdb
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.AssemblyInfo.cs
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.dll
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\refint\Solucer-Soduku.dll
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.pdb
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\Solucer-Soduku.genruntimeconfig.cache
+C:\Users\user\Desktop\Solucer-Soduku\obj\Release\net6.0\ref\Solucer-Soduku.dll
