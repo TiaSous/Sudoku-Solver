@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpELic6FsttzGm6tAsVSd0ovVNKHMQeb+bGwdjx7ab+hiL0nXXuG7oFakEIloc3NAvBApgVx0/7LL9q6Li1lsw==",
+  "dgSpecHash": "i1dK/smhCt70VPMHYPTx5741PrSyC3meRXQdURpxJ1Vc050vPdq5icQ4eFyIIALfZzku+tlUgM8MYGA48c5z3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Solucer-Soduku\\Solucer-Soduku.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\Sudoku-Solver\\Sudoku-Solver\\Solucer-Soduku.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

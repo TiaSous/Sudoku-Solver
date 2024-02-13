@@ -11,6 +11,7 @@ RemplirTableau(sudoku, vraisudoku);
 Console.Clear();
 Console.WriteLine("Voici la solution\n");
 Dessinersudoku(vraisudoku);
+Console.ReadLine();
 
 // fonction
 static void RentrerValeur(int[,] sudoku, int[,] vraisudoku)

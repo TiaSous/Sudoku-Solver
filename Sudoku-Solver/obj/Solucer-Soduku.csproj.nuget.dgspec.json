@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Solucer-Soduku\\Solucer-Soduku.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Sudoku-Solver\\Sudoku-Solver\\Solucer-Soduku.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Solucer-Soduku\\Solucer-Soduku.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Sudoku-Solver\\Sudoku-Solver\\Solucer-Soduku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Solucer-Soduku\\Solucer-Soduku.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Sudoku-Solver\\Sudoku-Solver\\Solucer-Soduku.csproj",
         "projectName": "Solucer-Soduku",
-        "projectPath": "C:\\Users\\user\\Desktop\\Solucer-Soduku\\Solucer-Soduku.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Sudoku-Solver\\Sudoku-Solver\\Solucer-Soduku.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Solucer-Soduku\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Sudoku-Solver\\Sudoku-Solver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
