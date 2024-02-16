@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Sudoku-Solver-V2\bin\Release\net6.0\publish\Sudoku-Solver-V2.exe
+C:\Users\user\Desktop\Sudoku-Solver-V2\bin\Release\net6.0\publish\Sudoku-Solver-V2.dll
+C:\Users\user\Desktop\Sudoku-Solver-V2\bin\Release\net6.0\publish\Sudoku-Solver-V2.deps.json
+C:\Users\user\Desktop\Sudoku-Solver-V2\bin\Release\net6.0\publish\Sudoku-Solver-V2.runtimeconfig.json
+C:\Users\user\Desktop\Sudoku-Solver-V2\bin\Release\net6.0\publish\Sudoku-Solver-V2.pdb

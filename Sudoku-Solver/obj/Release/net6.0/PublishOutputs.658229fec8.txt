@@ -1,5 +1,0 @@
-C:\Users\user\Documents\GitHub\Sudoku-Solver\Sudoku-Solver\bin\Release\net6.0\publish\Solucer-Soduku.exe
-C:\Users\user\Documents\GitHub\Sudoku-Solver\Sudoku-Solver\bin\Release\net6.0\publish\Solucer-Soduku.dll
-C:\Users\user\Documents\GitHub\Sudoku-Solver\Sudoku-Solver\bin\Release\net6.0\publish\Solucer-Soduku.deps.json
-C:\Users\user\Documents\GitHub\Sudoku-Solver\Sudoku-Solver\bin\Release\net6.0\publish\Solucer-Soduku.runtimeconfig.json
-C:\Users\user\Documents\GitHub\Sudoku-Solver\Sudoku-Solver\bin\Release\net6.0\publish\Solucer-Soduku.pdb
